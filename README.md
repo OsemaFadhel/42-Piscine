@@ -17,7 +17,7 @@ All my projects i did during the piscine in 42 Roma.
 |07| [C06](https://github.com/KingFazzel/42-Piscine/tree/main/c06) | C | [![ofadhel's 42 C Piscine C 06 Score](https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2898522)](https://github.com/JaeSeoKim/badge42) |
 |08| [C07](https://github.com/KingFazzel/42-Piscine/tree/main/c07) | C | [![ofadhel's 42 C Piscine C 07 Score](https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2901773)](https://github.com/JaeSeoKim/badge42) |
 |09| [C08](https://github.com/KingFazzel/42-Piscine/tree/main/c08) | C | [![ofadhel's 42 C Piscine C 08 Score](https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2903120)](https://github.com/JaeSeoKim/badge42) |
-|09| [C09](https://github.com/KingFazzel/42-Piscine/tree/main/c09) | C | Empty [![ofadhel's 42 C Piscine C 09 Score](https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2906429)](https://github.com/JaeSeoKim/badge42) |
+|09| [C09 EMPTY](https://github.com/KingFazzel/42-Piscine/tree/main/c09) | C | [![ofadhel's 42 C Piscine C 09 Score](https://badge42.vercel.app/api/v2/cld8v7vvc00060fl440nilura/project/2906429)](https://github.com/JaeSeoKim/badge42) |
 
 
 
